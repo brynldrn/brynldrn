@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan!</h1>
+
 - 🔭 I’m currently working on **Code & Theory Projects**
 
 - 👨‍💻 All of my projects are available at [https://baeq.dev](https://baeq.dev)
@@ -19,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brynldrn&show_icons=true&theme=dark&locale=en&layout=compact" alt="brynldrn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brynldrn&show_icons=true&theme=dark&locale=en" alt="brynldrn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brynldrn&show_icons=true&theme=dark&locale=en" alt="brynldrn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brynldrn&theme=dark" alt="brynldrn" /></p>
