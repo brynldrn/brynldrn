@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryan!</h1>
 
-- 🔭 I’m currently working on **Code & Theory Projects**
+- 🔭 I’m currently working on **Izumi Global Projects**
 
 - 👨‍💻 All of my projects are available at [https://baeq.dev](https://baeq.dev)
 
