@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://baeq.dev](https://baeq.dev)
 
-- 📫 How to reach me **bryanaldrin28@protonmail.com**
+- 📫 How to reach me **bryanadummy01@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/brynldrn](https://github.com/brynldrn)
 
